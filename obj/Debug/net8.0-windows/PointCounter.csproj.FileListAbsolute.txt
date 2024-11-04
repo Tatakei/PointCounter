@@ -1,0 +1,16 @@
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\bin\Debug\net8.0-windows\PointCounter.exe
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\bin\Debug\net8.0-windows\PointCounter.deps.json
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\bin\Debug\net8.0-windows\PointCounter.runtimeconfig.json
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\bin\Debug\net8.0-windows\PointCounter.dll
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\bin\Debug\net8.0-windows\PointCounter.pdb
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.Form1.resources
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.csproj.GenerateResource.cache
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.AssemblyInfoInputs.cache
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.AssemblyInfo.cs
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.dll
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\refint\PointCounter.dll
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.pdb
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.genruntimeconfig.cache
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\ref\PointCounter.dll
