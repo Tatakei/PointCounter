@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PointCounter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c3795f257c931de115ee4521853ec37f6ce0704")]
 [assembly: System.Reflection.AssemblyProductAttribute("PointCounter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PointCounter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

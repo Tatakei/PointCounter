@@ -14,3 +14,4 @@ C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\
 C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.pdb
 C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.genruntimeconfig.cache
 C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\ref\PointCounter.dll
+C:\Users\Sascha\source\repos\PointCounter\PointCounter\obj\Debug\net8.0-windows\PointCounter.sourcelink.json
